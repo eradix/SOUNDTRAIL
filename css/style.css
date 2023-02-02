@@ -1,0 +1,15 @@
+.main{
+  background: #36454f;
+}
+li a {
+  cursor:pointer;
+  transition: 0.3s ease-in-out;
+  
+}
+li a:hover{
+	font-weight: 700;
+}
+
+.control-buttons{
+  cursor: pointer;
+}
